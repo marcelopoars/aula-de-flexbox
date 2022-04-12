@@ -1,6 +1,6 @@
 # Aula de Flexbox
 
-Aula realizada no dia 12/04/2022 para turma de `Desenvolvimento web para dispositivos móveis`.
+Aula realizada no dia 12/04/2022 para turma de `Desenvolvimento web para dispositivos móveis - Faculdade Senac`.
 
 ## Nos preparando para a aula
 
