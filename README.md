@@ -24,8 +24,6 @@ Aula realizada no dia 12/04/2022 para turma de `Desenvolvimento web para disposi
 
 ## Links úteis
 
-[Site: www.marcelopereira.dev](https://marcelopereira.dev)
-
 - Canal Dica do Nerd [Curso Html5 e Css3]: [https://www.youtube.com/DicaDoNerd](https://www.youtube.com/DicaDoNerd)
 - Meterial sobre Flexbox [Marcelo Pereira]: [https://github.com/marcelopoars/flexbox](https://github.com/marcelopoars/flexbox)
 - Can I use [Ver suporte a navegadores]: [https://caniuse.com/](https://caniuse.com/)
