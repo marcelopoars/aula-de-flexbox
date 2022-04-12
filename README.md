@@ -14,8 +14,8 @@ Aula realizada no dia 12/04/2022 para turma de `Desenvolvimento web para disposi
 
 - [] Sobre a propriedade `display` do css
 - [] O que é Flexbox
-- [] Propiedades de `container` (elemento pai) e `items` (elementos filhos)
-- [] Entender sobre eixo principal (row x column)
+- [] Propiedades de `flex-container` (elemento pai) e `flex-items` (elementos filhos)
+- [] Entender sobre `eixo principal` (row x column)
 
 ## Atalhos VS Code
 
