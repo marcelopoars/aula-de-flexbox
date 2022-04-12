@@ -4,18 +4,18 @@ Aula realizada no dia 12/01 para turma de Dev Mobile - Senac Porto Alegre
 
 ## Nos preparando para a aula
 
-[ ] Apresentação
-[ ] Entender o momento da turma (domínio do html e Css)
-[ ] Quantos alunos já trabalham como Dev Front-end
-[ ] Como aproveitar melhor esta aula `!important`
-[ ] Checar expensões
+- [] Apresentação
+- [] Entender o momento da turma (domínio do html e Css)
+- [] Quantos alunos já trabalham como Dev Front-end
+- [] Como aproveitar melhor esta aula `!important`
+- [] Checar extensões para VS Code
 
 ## Introdução ao Flexbox
 
-[ ] Sobre a propriedade `display` do css
-[ ] O que é Flexbox
-[ ] Propiedades de `container` (elemento pai) e `items` (elementos filhos)
-[ ] Entender sobre eixo principal (row x column)
+- [] Sobre a propriedade `display` do css
+- [] O que é Flexbox
+- [] Propiedades de `container` (elemento pai) e `items` (elementos filhos)
+- [] Entender sobre eixo principal (row x column)
 
 ## Atalhos VS Code
 
