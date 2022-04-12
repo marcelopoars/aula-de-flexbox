@@ -11,12 +11,12 @@ body {
   background-color: #222222;
 }
 
-section {
+.flex-container {
   padding: 16px;
   background-color: #fafafa;
 }
 
-div {
+.flex-item {
   padding: 16px;
   font-weight: bold;
   background-color: tomato;
@@ -25,4 +25,8 @@ div {
 
 h1 {
   margin-bottom: 32px;
+}
+
+h2 {
+  margin-bottom: 8px;
 }
