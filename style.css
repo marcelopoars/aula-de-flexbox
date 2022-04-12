@@ -6,19 +6,24 @@
 
 body {
   padding: 24px;
+  min-height: 100vh;
+
   color: #fafafa;
   font-family: sans-serif;
+
   background-color: #222222;
 }
 
 .flex-container {
-  padding: 16px;
+  padding: 8px;
   background-color: #fafafa;
 }
 
 .flex-item {
   padding: 16px;
+
   font-weight: bold;
+
   background-color: tomato;
   border: 2px solid #222;
 }
