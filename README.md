@@ -1,6 +1,6 @@
 # Aula de Flexbox
 
-Aula realizada no dia 12/01 para turma de Dev Mobile - Senac Porto Alegre
+Aula realizada no dia 12/04/2022 para turma de `Desenvolvimento web para dispositivos móveis`.
 
 ## Nos preparando para a aula
 
